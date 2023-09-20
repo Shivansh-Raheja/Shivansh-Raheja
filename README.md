@@ -9,6 +9,8 @@ I'm Shivansh Raheja, a passionate web developer with a love for creating beautif
 - JavaScript
 - ReactJS
 - Freelancing
+- website and prototype testing
+- content creation via online tools
 
 ## 🚀 What I'm Currently Working On
 
