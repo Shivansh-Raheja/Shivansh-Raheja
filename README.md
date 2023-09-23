@@ -1,4 +1,4 @@
-![Profile Image](https://github.com/Shivansh-Raheja/my-hackerrank-solutions/blob/main/gitsample.jpg?raw=true)
+![Profile Image](https://github.com/Shivansh-Raheja/my-hackerrank-solutions/blob/main/mountains-55067_640.png)
 
 # Hello, World! 👋
 
