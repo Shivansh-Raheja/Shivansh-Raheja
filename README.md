@@ -1,5 +1,3 @@
-![Profile Image](https://github.com/Shivansh-Raheja/my-hackerrank-solutions/blob/main/mountains-55067_640.png)
-
 # Hello, World! 👋
 
 I'm Shivansh Raheja, a passionate web developer with a love for creating beautiful and interactive web experiences. Welcome to my GitHub playground, where I code, explore, and collaborate with tech enthusiasts like you!
